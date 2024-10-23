@@ -6,9 +6,9 @@ The folders and their functionalities are detailed below:
 3. routes => Created a file named routes.js that handles routing mechanism depending on the request method and invoking the correct method.
 
 The advanced features are:-<b>
-1.`Indexes`-Added an index to the schema itemSchema<b>
-2. `Validation`-Used the `required` clause to enable validation.<b>
-3. `Aggregation`-Used the aggregation pipeline(`$group`) in itemController.js<b>
+1.`Indexes`-Added an index to the schema itemSchema<br>
+2. `Validation`-Used the `required` clause to enable validation.<br>
+3. `Aggregation`-Used the aggregation pipeline(`$group`) in itemController.js<br>
 
 Steps to run the project:
 1. Fork the repository.
