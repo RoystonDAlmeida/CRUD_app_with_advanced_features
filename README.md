@@ -11,7 +11,7 @@ The advanced features are:-<br>
 3.`Aggregation`-Used the aggregation pipeline(`$group`) in itemController.js<br>
 
 Steps to run the project:<br>
-1.Fork the repository.
-2.Clone the repository in local using `git clone`
-3.Start the development server using `node server.js`
-4.Make requests through a tool such as `Postman API`
+1.Fork the repository.<br>
+2.Clone the repository in local using `git clone`<br>
+3.Start the development server using `node server.js`<br>
+4.Make requests through a tool such as `Postman API`<br>
