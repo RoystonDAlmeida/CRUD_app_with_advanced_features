@@ -7,11 +7,11 @@ The folders and their functionalities are detailed below:
 
 The advanced features are:-<br>
 1.`Indexes`-Added an index to the schema itemSchema<br>
-2. `Validation`-Used the `required` clause to enable validation.<br>
-3. `Aggregation`-Used the aggregation pipeline(`$group`) in itemController.js<br>
+2.`Validation`-Used the `required` clause to enable validation.<br>
+3.`Aggregation`-Used the aggregation pipeline(`$group`) in itemController.js<br>
 
-Steps to run the project:
-1. Fork the repository.
-2. Clone the repository in local using `git clone`
-3. Start the development server using `node server.js`
-4. Make requests through a tool such as `Postman API`
+Steps to run the project:<br>
+1.Fork the repository.
+2.Clone the repository in local using `git clone`
+3.Start the development server using `node server.js`
+4.Make requests through a tool such as `Postman API`
