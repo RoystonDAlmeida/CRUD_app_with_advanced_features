@@ -5,7 +5,7 @@ The folders and their functionalities are detailed below:
 2. itemController => Created a file named itemController.js that contains several functions which will be available depending on the request method(GET, POST, DELETE, PUT)
 3. routes => Created a file named routes.js that handles routing mechanism depending on the request method and invoking the correct method.
 
-The advanced features are:-<b>
+The advanced features are:-<br>
 1.`Indexes`-Added an index to the schema itemSchema<br>
 2. `Validation`-Used the `required` clause to enable validation.<br>
 3. `Aggregation`-Used the aggregation pipeline(`$group`) in itemController.js<br>
